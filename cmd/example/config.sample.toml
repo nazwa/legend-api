@@ -1,0 +1,10 @@
+[legend]
+endpoint = ""
+useragent = ""
+username = ""
+password = ""
+guid = ""
+
+useMocks = false
+saveMocks = false
+proxyUrl = ""
