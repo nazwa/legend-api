@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/nazwa/legend/pkg/legend"
+	"github.com/nazwa/legend-api/pkg/legend"
 	"github.com/spf13/viper"
 )
 
